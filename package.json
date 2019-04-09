@@ -1,0 +1,15 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Web scraping demo using Osmosis to scrape and xlsx to export to an excel spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "osmosis": "^1.1.10",
+    "xlsx": "^0.14.2"
+  }
+}
